@@ -1,5 +1,7 @@
-#General Store Turn Management System
+General Store Turn Management System
+
 Overview
+
 This project is a simple turn management system designed for a general store, inspired by the ticketing systems used in banks and other service-oriented businesses. It helps manage customer queues for different departments within the store, such as cosmetics, perfumery, and drugstore sections. The system generates unique turn numbers with letter prefixes for each department and provides a friendly greeting for customers.
 
 Features
